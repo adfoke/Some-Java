@@ -11,6 +11,7 @@
 .mtj.tmp/
 target/
 .vscode/
+.mvn/
 
 # Package Files #
 *.jar
